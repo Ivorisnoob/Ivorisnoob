@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivor</h1>
-<h3 align="center">A Passionate Full stack developer from India</h3>
+<h3 align="center">A Full stack developer from India</h3>
 
 - 🔭 I’m currently working on [An ERP](private)
 
